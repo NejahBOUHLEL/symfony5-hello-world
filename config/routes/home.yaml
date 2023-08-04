@@ -1,0 +1,9 @@
+# home: 
+#   path: /home/{a<\d+>e?0}
+#   controller: App\Controller\TestController::home
+#   methods: [get]
+#   schemes: [http]
+#   defaults: 
+#     age : 0
+#   requirements:
+#     age : \d+ 
